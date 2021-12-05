@@ -2,10 +2,14 @@ html,
 body {
   margin: 0;
   padding: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 h3 {
-  margin-top: 0.5em;
+  margin-top: -1em;
   margin-bottom: 0.5em;
   text-align: center;
 }
